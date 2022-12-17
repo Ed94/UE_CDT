@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"Version": 4.27,
+	"VersionName": "4.27",
+	"FriendlyName": "Unreal CDT",
+	"Description": "Unreal Engine Constrained Delaunay Triangulation Mdoule. A wrap of the CDT C++ library for use in Unreal.",
+	"Category": "Other",
+	"CreatedBy": "https://github.com/Ed94",
+	"CreatedByURL": "https://github.com/Ed94/UE_CDT",
+	"DocsURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "UE_CDT",
+			"Type": "RunTime",
+			"LoadingPhase": "PreDefault"
+		}
+	]
+}

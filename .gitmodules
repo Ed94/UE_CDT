@@ -1,0 +1,3 @@
+[submodule "Source/CDT"]
+	path = Source/CDT
+	url = https://github.com/artem-ogre/CDT
